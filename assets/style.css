@@ -1,0 +1,77 @@
+#navcategory {
+    background-color: #046A1B;
+}
+
+h1 {
+    /* Phytothérapie */
+    position: absolute;
+    
+    width: 399px;
+    height: 44px;
+    left: calc(50% - 399px/2 - 0.5px);
+    top: 276px;
+    
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+    text-align: center;
+    color: #0fa958;
+    /* border: 5px solid #ffffff; */
+    text-shadow: 12px 12px 12px rgba(0, 0, 0, 0.25);
+
+}
+
+/* img {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 103px;
+    top: 35px;
+} */
+
+#card {
+    margin-top: 80px;
+}
+
+#footer1 {
+    background-color: #046A1B;
+    width: 100%;
+    height: 200px;
+    left: auto;
+    right: auto;
+    top: 800px;
+    opacity: 80%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#logos {
+    display: flex;
+    width: 100%;
+    height: 220px;
+    left: auto;
+    right: auto;
+    opacity: 80%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+#footer2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #046A1B;
+    width: 100%;
+    height: 180px;
+    left: auto;
+    right: auto;
+    /* top: 800px; */
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
